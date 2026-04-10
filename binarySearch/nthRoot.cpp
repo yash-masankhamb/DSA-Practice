@@ -64,6 +64,7 @@ int main() {
     return 0;
 }
 
+
 // Example:
 // Input: n = 3, m = 27
 // Output: 3
