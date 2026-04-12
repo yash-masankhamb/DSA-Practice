@@ -68,6 +68,5 @@ int main() {
 // Example:
 // Input: n = 3, m = 27
 // Output: 3
-
 // Input: n = 2, m = 10
 // Output: -1
