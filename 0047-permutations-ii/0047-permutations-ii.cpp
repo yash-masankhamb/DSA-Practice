@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void printpermute(int index,vector<int>nums,set<vector<int>>& s)
+    void printpermute(int index,vector<int>&nums,set<vector<int>>& s)
     {
         if(index==nums.size())//base case
         {
